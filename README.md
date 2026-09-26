@@ -1,5 +1,7 @@
 # AgentCore — an LLM agent runtime from first principles
 
+[![tests](https://github.com/lukatkem/agentcore/actions/workflows/tests.yml/badge.svg)](https://github.com/lukatkem/agentcore/actions/workflows/tests.yml) ![tests](https://img.shields.io/badge/tests-47_passing-2ea44f)
+
 > An LLM agent loop from first principles — tools, parsing, guards — testable
 > without a single network call.
 
